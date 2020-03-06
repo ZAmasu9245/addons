@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "pichot/tfo/fabricator_ui"
+	"$translucent" 1
+}

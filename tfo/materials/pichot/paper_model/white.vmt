@@ -1,0 +1,5 @@
+vertexlitgeneric
+{
+	$basetexture "pichot/paper_model/white"
+	$surfaceprop paper
+}
